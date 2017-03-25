@@ -92,9 +92,11 @@ Java的常见集中设计模式学习笔记
        }
        注意：工厂方法模式在农场系统中的实现图
 ![](https://github.com/fan764093434/Java-Design-pattern/blob/master/photo/factory-method-02.png)
+
     (3)抽象工厂（Abstract Factory）模式，又称工具箱（Kit 或Toolkit）模式。是所有形态的工厂模式中最为抽象和最具一般性
        的一种形态，他是工厂方法模式的进一步推广，简略图如下
 ![](https://github.com/fan764093434/Java-Design-pattern/blob/master/photo/abstract-factory-01.png)
+
        上图中左边的等级结构代表工厂的等级结构，右边两个等级结构分别代表两个不同产品的等级结构，抽象工厂模式可以向客户端提供
        一个接口，似的客户端在不必指定产品的具体类型下，创建多个产品族中的产品对象，
 
