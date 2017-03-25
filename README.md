@@ -28,6 +28,7 @@ Java的常见集中设计模式学习笔记
            }
        }
        在使用时，客户端只需调用FruitGardener 的静态方法factory()即可。
+       ![https://github.com/fan764093434/Java-Design-pattern/blob/master/photo/simple-factory.png]
     (2)工厂方法（Factory Method）模式，又称多态性工厂（Polymorphic Factory）模式或虚拟构造子（Virtual Constructor模式；
     (3)抽象工厂（Abstract Factory）模式，又称工具箱（Kit 或Toolkit）模式。
 	
